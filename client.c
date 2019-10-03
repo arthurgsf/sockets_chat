@@ -8,6 +8,7 @@
 
 int main(int argc, char const *argv[])
 {
+    //Adicionei aqui e sai correndo :)
     char buffer[200];
     int soc;
     struct sockaddr_in serverAddr;
